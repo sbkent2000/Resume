@@ -1,0 +1,51 @@
+Document Fulfillment Services , Inc ( DFS ) , West Sacramento , CA   03/2007 - Present   
+  Document Fulfillment Services provides custom document printing and mailing services to a wide range of customers from California state agencies to Credit Unions and Petroleum Fueling Networks .   
+    Manager - Information Technologies / Systems Analyst / Programmer - DFS   03/2007 - 09/2011   
+    Reported to the General Manager / Owner, managed all aspects of day-to-day network, desktop computer and printer operations   
+    Documented all of DFS ' processes.  Sole responsibility for managing successful completion of audit conducted by Sonoma County audit staff .   Working closely with audit staff, created policies , procedures , best practices & compliance documentation , etc.   
+    Defined , implemented and enforced corporate standards and policies and procedures resulting from Sonoma County audit.   
+    Developed corporate information portal utilizing MS Windows SharePoint 2003 to publish project control timelines , policies and procedures and documentation of DFS ' processes.   
+    Worked closely with vendors to create SLAs.   
+    Worked closely with customers to analyze requirements to develop, test and implement programs to produce output to satisfy requirements.   
+    Regularly participated in troubleshooting inconsistencies in customer's input data to facilitate corrected output under extremely critical timeframes.
+
+
+Arcadia Biosciences , Inc , Davis , CA   01/2005 - 11/2006   Arcadia provides research and development of Ag . Biotech traits .   
+  Manager - Information Technologies - Arcadia Biosciences   2005 - 11/2006   
+    Reported to the CFO . 
+    Managed 1 FTE and several outsourced support technicians in all aspects of computer - related hardware and software support for 70 + users across 4 geographic locations . 
+    Reduced overall IT expenditures by $170K/year by designing and implementing a proprietary network infrastructure.  
+    Managed migration from parent company's network.  Managed project to replace an aging and 'at capacity' corporate phone system.  
+    Managed implementation of full voice and data solution for greenhouse location.  
+    Implemented data backup solution for reliable backups, reducing potential for user error.  
+    Responsible for annual operating and capital budgets.
+
+
+Independent Consulting/Contracting   01/2003 - 12/2004   
+    Website development   Get Tutored , Inc . , Falmouth , MA   
+    Educational program development - KLEIN Educational Systems, Inc., Davis, CA   
+    Web-based newsletter development - SACTO (Sacramento Area Trade Organization), Sacramento, CA  
+    Helpdesk technician - UC Davis Department of Architects & Engineers, Davis, CA 
+
+Calgene, LLC - a Monsanto Company  1994 - 2002  
+    Managed 7 FTEs in all aspects of computer related and network-related hardware and software support for 400+ users across 5 geographically diverse locations.  
+    Successfully implemented and managed help desk.  Implemented ticket tracking system as well as complete set of procedures.  Prioritized projects and help desk requests.  
+    Responsible for annual operating budget in excess of $2M as well as a $200K capital budget.  
+    Realized an annual cost savings to parent company of $1M by successfully leading an effort to obtain company-wide adoption of a Research and Greenhouse Inventory Management System developed in Davis.  
+    Improved internal communications, access to information and efficiencies through design, development and maintenance of Calgene's internal company website.  
+    Successfully managed project team to develop and test Calgene's DRP.  
+    Selected to participated on Monsanto's Global Disaster Recovery Project Team.  
+    Successfully implemented and achieved corporate compliance for Y2K under extremely aggressive time frames.
+
+Ross Systems, Inc., Redwood City, CA  1988 - 1993  
+    Worked with all department and levels of the company to coordinate all aspects of software release function for software including maintenance releases as well as new functionality releases.  
+    Worked as a COBOL programmer/analyst on various financial applications development teams. 
+    Member of the development team responsible for successfully writing a General Ledger Allocations module funded by Microsoft Corporation
+
+
+Avantek, Inc. - a Hewlett-Packard Company  1982 - 1988  
+    Worked closely with users performing maintenance analysis and provramming on existing systems as well as provided customized solutions based on the needs of the business on a Process Manufacturing software package.  
+	Program development was in COBOL.  
+	Lead Operator on a Sper-UNIVAC 1100/70 mainframe computer in a 24/7 operations department.  
+	Responsible for batch submission , tracking, troubleshooting and report distribution to all areas of the company.  
+	Performed nightly, weekly, monthly, year-end and archive backups to offline storage
