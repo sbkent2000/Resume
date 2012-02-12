@@ -1,5 +1,7 @@
 
-Document Fulfillment Services , Inc ( DFS ) , West Sacramento , CA   03/2007 - Present   
+Document Fulfillment Services , Inc ( DFS ) , West Sacramento , CA   03/2007 - Present
+	910 Riverside Parkway #40
+	West Sacramento, CA  95605
   Document Fulfillment Services provides custom document printing and mailing services to a wide range of customers from California state agencies to Credit Unions and Petroleum Fueling Networks .   
     Manager - Information Technologies / Systems Analyst / Programmer - DFS   03/2007 - 09/2011   
     Reported to the General Manager / Owner, managed all aspects of day-to-day network, desktop computer and printer operations   
@@ -11,7 +13,10 @@ Document Fulfillment Services , Inc ( DFS ) , West Sacramento , CA   03/2007 - P
     Regularly participated in troubleshooting inconsistencies in customer's input data to facilitate corrected output under extremely critical timeframes.
 
 
-Arcadia Biosciences , Inc , Davis , CA   01/2005 - 11/2006   Arcadia provides research and development of Ag . Biotech traits .   
+Arcadia Biosciences , Inc , Davis , CA   01/2005 - 11/2006   Arcadia provides research and development of Ag . Biotech traits .
+	202 Cousteau Place
+	Davis, CA  95616
+	(530) 756-7077
   Manager - Information Technologies - Arcadia Biosciences   2005 - 11/2006   
     Reported to the CFO . 
     Managed 1 FTE and several outsourced support technicians in all aspects of computer - related hardware and software support for 70 + users across 4 geographic locations . 
@@ -28,7 +33,10 @@ Independent Consulting/Contracting   01/2003 - 12/2004
     Web-based newsletter development - SACTO (Sacramento Area Trade Organization), Sacramento, CA  
     Helpdesk technician - UC Davis Department of Architects & Engineers, Davis, CA 
 
-Calgene, LLC - a Monsanto Company  1994 - 2002  
+Calgene, LLC - a Monsanto Company  1994 - 2002
+	800 N. Lindbergh Blvd.
+	St. Louis, MO 63167
+	(314) 694-1000
     Managed 7 FTEs in all aspects of computer related and network-related hardware and software support for 400+ users across 5 geographically diverse locations.  
     Successfully implemented and managed help desk.  Implemented ticket tracking system as well as complete set of procedures.  Prioritized projects and help desk requests.  
     Responsible for annual operating budget in excess of $2M as well as a $200K capital budget.  
